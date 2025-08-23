@@ -79,27 +79,3 @@ Open `Regional_Sales_Analysis.ipynb` and run all cells.
 
 ---
 
-## 🛠️ Possible Improvements
-
-- Add `requirements.txt` for Python environment  
-- Include screenshots of dashboard visuals  
-- Create a data dictionary for all columns  
-- Automate the data pipeline with scripts  
-
----
-
-## 🤝 Contributing
-
-1. Fork this repo  
-2. Create a branch (`feature-xyz`)  
-3. Commit your changes  
-4. Open a Pull Request  
-
----
-
-
-## 🙌 Acknowledgements
-
-- Data Source: `Regional Sales Dataset.xlsx`  
-- Analysis: `Regional_Sales_Analysis.ipynb`  
-- Dashboard: `SALES REPORT.pbix`  
